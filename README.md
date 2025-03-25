@@ -57,7 +57,7 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 **Tableau**
 * [Data Visualisation in Tableau- Job Change](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Job-Change)
 * [Data Visualisation in Tableau- Health Survey](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Health-Survey)
-* [Data Visualisation in Tableau- Job Change](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Music-Industry)
+* [Data Visualisation in Tableau- Music Industry](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Music-Industry)
 * [Tableau different version](https://github.com/Alamin-analyser/Tableau-different-version)
 
 ### Badges
