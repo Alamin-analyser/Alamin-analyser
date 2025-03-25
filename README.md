@@ -36,8 +36,17 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 **Dealing Data**
 * [Common laws in Dealing Data](https://github.com/Alamin-analyser/Common-laws-in-Dealing-Data)
 
+**Excel**
+* [Data Analysing and Visualising in Excel](https://github.com/Alamin-analyser/Data-Analysing-Visualising-in-Excel)
+* [Basic Accountancy in Excel](https://github.com/Alamin-analyser/Basic-Accountancy-in-Excel)
 
+**PowerBI**
+* [Data Analysing and Visualising in PowerBI](https://github.com/Alamin-analyser/Data-Analysing-and-Visualising-in-Power-BI)
 
+**Python**
+* [Python FizzBuzz Project](https://github.com/Alamin-analyser/Python-FizzBuzz-Project)
+* [Python GDP Project](https://github.com/Alamin-analyser/Python-GDP-Project)
+* [Analysing Visualising Data in Python](https://github.com/Alamin-analyser/Analysing-Visualising-Data-in-Python)
 
 
 ### Badges
