@@ -29,9 +29,9 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 
 ## Portfolio Project
 **Azure**
-   [Data Management: Paws & Whiskers](https://github.com/Alamin-analyser/Data-Management-in-Azure)
-   [Cloud Computing](https://github.com/Alamin-analyser/Cloud-computing-and-Azure)
-   [Skillable Lab](https://github.com/Alamin-analyser/Azure-Skillable-Lab)
+[Data Management: Paws & Whiskers](https://github.com/Alamin-analyser/Data-Management-in-Azure)
+[Cloud Computing](https://github.com/Alamin-analyser/Cloud-computing-and-Azure)
+[Skillable Lab](https://github.com/Alamin-analyser/Azure-Skillable-Lab)
 
 ### Badges
 
