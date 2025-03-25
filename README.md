@@ -7,7 +7,7 @@ Data Analyst
 Proactive individual with a clear and organised approach to problem-solving, always focused on identifying and seizing opportunities to drive organisational success through strong communication skills.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [Google Sites](https://sites.google.com/view/alamin60561/portfolio)
+* 🖥️  See my portfolio at [Google Sites](https://sites.google.com/view/alamin60561/home)
 * ✉️  You can contact me at [alamin605@yahoo.com](mailto:alamin605@yahoo.com)
 * 🚀  I'm currently working on [Data Analysing Project](http://www.justit.co.uk)
 * 🧠  I'm learning MySQL, Python, Microsoft Azure, Tableau and Power BI
