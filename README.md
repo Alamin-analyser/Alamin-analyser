@@ -32,6 +32,7 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 * [Data Management in Azure](https://github.com/Alamin-analyser/Data-Management-in-Azure)
 * [Cloud Computing and Azure](https://github.com/Alamin-analyser/Cloud-computing-and-Azure)
 * [Azure Skillable Lab](https://github.com/Alamin-analyser/Azure-Skillable-Lab)
+  
 **Dealing Data**
   * [Common laws in Dealing Data](https://github.com/Alamin-analyser/Common-laws-in-Dealing-Data)
 ### Badges
