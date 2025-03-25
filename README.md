@@ -48,6 +48,16 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 * [Python GDP Project](https://github.com/Alamin-analyser/Python-GDP-Project)
 * [Analysing Visualising Data in Python](https://github.com/Alamin-analyser/Analysing-Visualising-Data-in-Python)
 
+**MySQL**
+* [Settingup Database in MySQL](https://github.com/Alamin-analyser/Settingup-Database-in-MySQL)
+* [Designing Database in MySQL](https://github.com/Alamin-analyser/Designing-Database-in-MySQL)
+* [Key and Join Concepts in MySQL](https://github.com/Alamin-analyser/Key-Join-concepts-in-MySQL)
+
+**Tableau**
+* [Data Visualisation in Tableau- Job Change](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Job-Change)
+* [Data Visualisation in Tableau- Health Survey](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Health-Survey)
+* [Data Visualisation in Tableau- Job Change](https://github.com/Alamin-analyser/Data-visualisation-in-Tableau-Music-Industry)
+* [Tableau different version](https://github.com/Alamin-analyser/Tableau-different-version)
 
 ### Badges
 
