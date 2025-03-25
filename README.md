@@ -34,7 +34,12 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 * [Azure Skillable Lab](https://github.com/Alamin-analyser/Azure-Skillable-Lab)
   
 **Dealing Data**
-  * [Common laws in Dealing Data](https://github.com/Alamin-analyser/Common-laws-in-Dealing-Data)
+* [Common laws in Dealing Data](https://github.com/Alamin-analyser/Common-laws-in-Dealing-Data)
+
+
+
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
