@@ -13,7 +13,7 @@ Proactive individual with a clear and organised approach to problem-solving, alw
 * 🧠  I'm learning MySQL, Python, Microsoft Azure, Tableau and Power BI
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Man City Fan
-* 📂  My CV [Al Amin](https://drive.google.com/file/d/1SJWhZNq0jaMqqFnLv_lgt_gZv6OAJWJM/view?usp=drive_link)
+* 📂  My CV [Al Amin](https://drive.google.com/file/d/1DAjTL4bwTBJHnK2kpraeGbOgd6xY7f98/view?usp=drive_link)
 
 
 ### Skills
